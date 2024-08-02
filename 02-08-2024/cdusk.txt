@@ -1,0 +1,8 @@
+suspicious additional cube: 10
+unextinguished flame: 2
+small exp accumulation: 1
+twisted essence of time: 6
+spell trace: 240
+blade of chaos: 1
+power elixir: 50
+resurrection flame: 1

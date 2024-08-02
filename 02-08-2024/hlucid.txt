@@ -1,0 +1,8 @@
+suspicious additional cube: 9
+resurrection flame: 1
+twisted essence of time: 4
+spell trace: 240
+large boss medal: 2
+black resurrection flame: 1
+unextinguished flame: 2
+additional 50%: 1

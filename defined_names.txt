@@ -1,0 +1,59 @@
+#Dark Boss Set
+Loose Control Machine Mark
+Magical Eye Patch
+Fantasy Belt
+Source of Pain
+Commander Force Earring
+Giant Fear
+Cursed Magic Book
+
+#ACS/Absolabs Drop
+ACS Weapon
+ACS Armor
+Absolabs Armor
+
+#Dawn Boss Set
+Divine King Ring
+Estella Earring
+Daybreak Pendant
+Penombre Mark
+
+#Ring
+Black Jade Boss (ROR 2)
+
+#Cube
+Suspicious Additional Cube
+Yellow Cube
+Blade of Chaos
+Powerful Blade of Chaos
+
+#Flame
+Resurrection Flame
+Black Resurrection Flame
+Rainbow Resurrection Flame
+Crimson Resurrection Flame
+Never-Extinguished Flame
+Unextinguished Flame
+
+#EXP
+Additional 50%
+Small EXP Accumulation
+
+#Common Boss Drop
+Sparkling Red Star
+Amazingly Positive 60%
+Large Boss Medal
+
+#ETC
+Primal Essence
+Damienroid
+Twisted Essence of Time
+Spell Trace
+
+#Others
+Power Elixir
+Glowing Soul Crystal
+Potential Scroll
+Sparkling Blue Star Potion
+Warped Brand Soul Stone
+Butterfly Wings Water Drop Stone

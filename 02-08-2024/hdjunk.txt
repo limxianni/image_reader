@@ -1,0 +1,11 @@
+spell trace: 240
+unextinguished flame: 2
+large boss medal: 2
+suspicious additional cube: 10
+amazingly positive 60%: 1
+twisted essence of time: 2
+resurrection flame: 1
+small exp accumulation: 1
+blade of chaos: 1
+power elixir: 50
+additional 50%: 2

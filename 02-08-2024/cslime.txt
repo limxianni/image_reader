@@ -1,0 +1,14 @@
+large boss medal: 2
+suspicious additional cube: 9
+unextinguished flame: 1
+additional 50%: 1
+sparkling red star: 1
+small exp accumulation: 1
+never-extinguished flame: 1
+power elixir: 60
+primal essence: 1
+blade of chaos: 1
+resurrection flame: 1
+twisted essence of time: 5
+spell trace: 240
+rainbow resurrection flame: 1

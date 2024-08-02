@@ -1,0 +1,9 @@
+never-extinguished flame: 1
+resurrection flame: 1
+unextinguished flame: 4
+suspicious additional cube: 8
+large boss medal: 1
+twisted essence of time: 6
+power elixir: 60
+spell trace: 240
+sparkling blue star potion: 1
