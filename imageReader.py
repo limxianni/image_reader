@@ -60,13 +60,10 @@ for file in image_files:
     try:
         file_without_extension = re.sub(r'\.png|\.jpg|\.jpeg', '', file)
         img = cv2.imread(os.path.join("boss/", file))
-        aspect_ratio = desired_width / img.shape[1]
-        new_dimensions = (desired_width, int(img.shape[0] * aspect_ratio))
 
         # Up-sample (since the image is too small), then convert to HSV. Get binary mask and perform OCR
-        img = cv2.resize(img, (0, 0), fx=2.1, fy=2.1)
+        img = cv2.resize(img, (0, 0), fx=2, fy=2)
         hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
-        # hsv = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         msk = cv2.inRange(hsv, np.array([0, 0, 123]), np.array([179, 255, 255]))
         extracted_text = tess.image_to_string(msk, lang='eng', config='--psm 6').split('\n')
 
